@@ -11,21 +11,6 @@
         border: 0;
     }
 
-    body {
-        margin: 4px;
-    }
-
-    #conwidth {
-        width: 20px;
-        display: inline-block;
-        }
-
-    .algunos {
-        background-color: beige;
-        width: 40px;
-    }
-        
- 
-    span {
-        color: red;
-    }
+    header {
+        text-align: center;
+    
